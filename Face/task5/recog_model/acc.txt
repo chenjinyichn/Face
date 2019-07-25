@@ -1,0 +1,5 @@
+epoch: 0, validation acc: 0.830000004172
+epoch: 1, validation acc: 0.965833327174
+epoch: 2, validation acc: 0.99416667223
+epoch: 3, validation acc: 0.998333334923
+epoch: 4, validation acc: 0.990833333135
